@@ -10,7 +10,7 @@
 
 <h3>Modo de Uso</h3>
 
-<!--Basta executar o arquivo principal com o interpretador do Python 3x, referenciado pelo ponto vermelho na imagem abaixo.-->
+<h6>Basta executar o arquivo principal com o interpretador do Python 3x, referenciado pelo ponto vermelho na imagem abaixo.</h6>
 
 
 ![iii](https://user-images.githubusercontent.com/20159378/117528880-cb987700-afaa-11eb-93b4-daa323f52f56.PNG)
