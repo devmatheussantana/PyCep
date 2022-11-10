@@ -18,9 +18,3 @@
 <h6>Comando</h6>
 
 `python pycep.py`
-
-
-
-<h5>Prontinho!</h5>
-
-![iiii](https://user-images.githubusercontent.com/20159378/117528914-f5ea3480-afaa-11eb-969a-2b7342f14a26.PNG)
